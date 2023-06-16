@@ -1,4 +1,4 @@
-mport streamlit as st  # streamlit -> import (가져오기) -> as (st 이름)
+import streamlit as st  # streamlit -> import (가져오기) -> as (st 이름)
 
 # 마크다운
 # https://heropy.blog/2017/09/30/markdown/
