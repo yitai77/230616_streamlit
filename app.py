@@ -47,3 +47,4 @@ text = """
 형광펜 : <mark>형광펜</mark>
 """
 st.write(text)
+st. markdown(text, unsafe_allow_html=True)
