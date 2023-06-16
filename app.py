@@ -12,6 +12,7 @@ st.header("수업 8일차에 만들었어요")
 st.subheader("그래도 잘 만들었죠?")
 st.write("내가 만든 streamlit 페이지, 너를 위해 구웠지")
 # 여러 가지 옵션을 넣어서 세부 기능들을 차이
+st.video("https://youtu.be/Bb5TcIdvtOU")
 st.image(image="img/img.jpeg", use_column_width=True) # 인터넷 사진 주소
 st.image(image="img/img.jpeg", width=100) # 인터넷 사진 주소
 
